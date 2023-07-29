@@ -1,0 +1,86 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 20%;  
+    padding: 0; 
+    background-color:black; 
+    height: 97%; 
+    text-align: center;
+}
+
+.titulo{
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+#imagem-olhos
+{margin: 0;
+    text-align: center;
+    border: 1px solid white;
+}
+
+h1{
+    text-align: center;
+    color: white; 
+    font-family: 'Cinzel', serif;
+}
+
+img{
+    width: 70%;
+    height: 80%;
+}
+
+#caixa-1{
+    display: flex; 
+    width: 100%; 
+    height: 60%; 
+    justify-content: center; 
+    align-items: flex-end;
+}
+
+#caixa-2{
+    margin-top: 30px;
+}
+
+.link-lc{
+    font: 28; 
+    color: white; 
+    text-decoration: none;
+}
+
+.link-lc:hover{
+    background-color: white; 
+    color: black;
+}
+
+#login{
+    display: flex; 
+    justify-content: center; 
+    height: 100%; 
+    align-items: center;
+}
+
+form{
+    width: 30%; 
+    height: 260px;
+}
+
+label{
+    color: white;
+}
+
+p{
+    text-align :center;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+div{
+    text-align :center;
+    color: white;
+}
+
+#cadastro{display: flex; justify-content: center; height: 100%; align-items: center;}
