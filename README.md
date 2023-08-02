@@ -7,4 +7,4 @@
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript)
 
-  <h2>Site de enigmas produzido na matéria de desenvolvimento de projeto II :)</h2>
+  <h2> Repositório dedicado a matéria de desenvolvimento de projeto II :)</h2>
