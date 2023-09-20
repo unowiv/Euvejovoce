@@ -1,0 +1,19 @@
+body{
+    margin: 21%; 
+    padding: 0; 
+    background-color:darkred; 
+    height: 97%; 
+    text-align: center;
+}
+
+h1{
+
+    text-align: center;
+    color: black;
+    font-family: 'Fantasy','arial';
+}
+
+img{
+    width: 60%;
+    height: 50%;
+}
