@@ -1,6 +1,6 @@
 body{
     font-family: 'Lora', serif;
-    margin: 15%;  
+    margin: 6%;  
     padding: 0; 
     background-color:black; 
     height: 97%; 
@@ -55,17 +55,6 @@ img{
     background-color: white; 
     color: black;
 }
-/*#login{
-    display: flex; 
-    justify-content: center; 
-    height: 100%; 
-    align-items: center;
-}
-
-form{
-    width: 30%; 
-    height: 260px;
-}*/
 
 label{
     color: white;
@@ -86,8 +75,10 @@ div{
     color: white;
 }
 
-/*#cadastro{
-    display: flex; 
-    justify-content: center; 
-    height: 100%; 
-    align-items: center;}*/
+#Qrcode {
+    position: absolute;
+    left: -10px;
+    bottom: 10px;
+    max-height: 120px;     
+    max-width: 120px;
+    }

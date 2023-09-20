@@ -1,6 +1,6 @@
 body{
     font-family: 'Lora', serif;
-    margin: 10%;  
+    margin: 0;  
     padding: 0; 
     background-color:black; 
     height: 97%; 
@@ -13,8 +13,8 @@ body{
     padding: 0;
 }
 
-#imagem-olhos
-{margin: 0;
+#imagem-olhos{
+    margin: 0;
     text-align: center;
     border: 1px solid white;
 }
@@ -53,7 +53,7 @@ img{
     color: black;
 }
 
-#login{
+/*#login{
     display: flex; 
     justify-content: center; 
     height: 100%; 
@@ -63,7 +63,7 @@ img{
 form{
     width: 30%; 
     height: 260px;
-}
+}*/
 
 label{
     color: white;
@@ -83,4 +83,3 @@ div{
     color: white;
 }
 
-#cadastro{display: flex; justify-content: center; height: 100%; align-items: center;}

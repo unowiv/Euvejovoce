@@ -1,22 +1,14 @@
-
 body{
     font-family: 'Lora', serif;
-    margin: 20%;  
+    margin: 3%;  
     padding: 0; 
     background-color:black; 
     height: 97%; 
     text-align: center;
 }
-/*#mostrar{
-    display: none;
-  }
-  
-  #passar_mouse:hover #mostrar{
-    display:block;
-    }*/
 
 .titulo{
-    color: rgb(0, 0, 0);
+    color: whitesmoke;
     margin: 0;
     padding: 0;
 }
@@ -24,12 +16,12 @@ body{
 #imagem-olhos
 {margin: 0;
     text-align: center;
-    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid white;
 }
 
 h1{
     text-align: center;
-    color: rgb(0, 0, 0); 
+    color: white; 
     font-family: 'Cinzel', serif;
 }
 
@@ -52,16 +44,16 @@ img{
 
 .link-lc{
     font: 28; 
-    color: rgb(0, 0, 0); 
+    color: white; 
     text-decoration: none;
 }
 
 .link-lc:hover{
-    background-color: rgb(0, 0, 0); 
+    background-color: rgb(255, 255, 255); 
     color: black;
 }
 
-/*#login{
+#login{
     display: flex; 
     justify-content: center; 
     height: 100%; 
@@ -71,23 +63,24 @@ img{
 form{
     width: 30%; 
     height: 260px;
-}*/
+}
 
 label{
-    color: rgb(0, 0, 0);
+    color: white;
 }
 
 p{
     text-align :center;
-    color: rgb(0, 0, 0);
+    color: white;
 }
 
 h2{
-    color: rgb(0, 0, 0);
+    color: white;
 }
 
 div{
     text-align :center;
-    color: rgb(0, 0, 0);
+    color: white;
 }
 
+#cadastro{display: flex; justify-content: center; height: 100%; align-items: center;}
