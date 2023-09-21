@@ -112,7 +112,7 @@ function enviarResposta(numero_desafio) {
             `; 
         }
     }else if (numero_desafio == 10){
-        if (resposta == "renascimento"){
+        if (resposta == "renascimento" || "renascentista"){
             document.getElementById("main").innerHTML = `
             <meta http-equiv="refresh" 
             content = "0 ; url = tela11.html"/>
